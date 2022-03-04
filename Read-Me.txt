@@ -1,1 +1,2 @@
 This is a beginning step in learning Git and GitHub.
+Slight modification by adding this line.
